@@ -1,2 +1,3 @@
 # TCP-IP-note
 notes of TCP/IP program
+这里是TCP/IP网络编程的一些基础笔记，涉及到Windows和Linux下的一些基础的套接字编程，其中Windows下最终会实现一个IOCP模型，Linux下最终会实现一个epoll模型，然后会实现一个简易的http服务器，这里可以和开源项目tinyhttpd做比较，两者思路相同，只是tinyhttpd实现了更多细节内容。
